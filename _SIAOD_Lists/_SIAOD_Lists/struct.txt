@@ -1,0 +1,3 @@
+SNF            Category       Year           Status         DateOfChange   
+GennadiyGorin  Fantazy        2017           InStock        2020           
+Gittelman      Guro           2019           OutOfStock     2021           

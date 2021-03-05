@@ -1,0 +1,4 @@
+﻿  main.cpp
+H:\_SIAOD_Sort\_SIAOD_Sort\main.cpp(10,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+H:\_SIAOD_Sort\_SIAOD_Sort\main.cpp(12,24): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  _SIAOD_Sort.vcxproj -> H:\_SIAOD_Sort\Debug\_SIAOD_Sort.exe

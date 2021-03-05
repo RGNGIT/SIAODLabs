@@ -1,0 +1,5 @@
+﻿  main.cpp
+H:\_SIAOD_Lists\_SIAOD_Lists\main.cpp(44,27): warning C4018: <: несоответствие типов со знаком и без знака
+H:\_SIAOD_Lists\_SIAOD_Lists\main.cpp(62,31): warning C4018: <: несоответствие типов со знаком и без знака
+H:\_SIAOD_Lists\_SIAOD_Lists\main.cpp(185): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  _SIAOD_Lists.vcxproj -> H:\_SIAOD_Lists\Debug\_SIAOD_Lists.exe
