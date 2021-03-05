@@ -1,0 +1,4 @@
+﻿  _SIAOD_App1.cpp
+G:\_SIAOD_App1\_SIAOD_App1\_SIAOD_App1.cpp(160,87): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+G:\_SIAOD_App1\_SIAOD_App1\_SIAOD_App1.cpp(183): warning C4717: main: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  _SIAOD_App1.vcxproj -> G:\_SIAOD_App1\Debug\_SIAOD_App1.exe

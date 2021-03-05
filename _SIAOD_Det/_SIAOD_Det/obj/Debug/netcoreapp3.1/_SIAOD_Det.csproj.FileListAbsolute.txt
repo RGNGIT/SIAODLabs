@@ -1,0 +1,13 @@
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\bin\Debug\netcoreapp3.1\_SIAOD_Det.exe
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\bin\Debug\netcoreapp3.1\_SIAOD_Det.deps.json
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\bin\Debug\netcoreapp3.1\_SIAOD_Det.runtimeconfig.json
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\bin\Debug\netcoreapp3.1\_SIAOD_Det.runtimeconfig.dev.json
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\bin\Debug\netcoreapp3.1\_SIAOD_Det.dll
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\bin\Debug\netcoreapp3.1\_SIAOD_Det.pdb
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\obj\Debug\netcoreapp3.1\_SIAOD_Det.csprojAssemblyReference.cache
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\obj\Debug\netcoreapp3.1\_SIAOD_Det.AssemblyInfoInputs.cache
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\obj\Debug\netcoreapp3.1\_SIAOD_Det.AssemblyInfo.cs
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\obj\Debug\netcoreapp3.1\_SIAOD_Det.csproj.CoreCompileInputs.cache
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\obj\Debug\netcoreapp3.1\_SIAOD_Det.dll
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\obj\Debug\netcoreapp3.1\_SIAOD_Det.pdb
+C:\Users\VNifedow\source\repos\_SIAOD_Det\_SIAOD_Det\obj\Debug\netcoreapp3.1\_SIAOD_Det.genruntimeconfig.cache
