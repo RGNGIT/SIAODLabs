@@ -1,0 +1,10 @@
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\bin\Debug\_SIAODLIB.exe.config
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\bin\Debug\_SIAODLIB.exe
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\bin\Debug\_SIAODLIB.pdb
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\obj\Debug\_SIAODLIB.csprojAssemblyReference.cache
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\obj\Debug\_SIAODLIB.Form1.resources
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\obj\Debug\_SIAODLIB.Properties.Resources.resources
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\obj\Debug\_SIAODLIB.csproj.GenerateResource.cache
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\obj\Debug\_SIAODLIB.csproj.CoreCompileInputs.cache
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\obj\Debug\_SIAODLIB.exe
+C:\Users\Rageon\source\repos\_SIAODLIB\_SIAODLIB\obj\Debug\_SIAODLIB.pdb
